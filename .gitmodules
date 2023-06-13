@@ -1,0 +1,6 @@
+[submodule "chaotic-scattering_website"]
+	path = chaotic-scattering_website
+	url = https://github.com/laycookie/chaotic-scattering_website
+[submodule "chaotic-scattering_library"]
+	path = chaotic-scattering_library
+	url = https://github.com/laycookie/chaotic-scattering_library
